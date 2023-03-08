@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
-	"Version": 6,
-	"VersionName": "1.3.1",
-	"FriendlyName": "TrickyAnimationComponents",
-	"Description": "A small plugin with a collection of components which  can help to create simple animations for actors and scene components.",
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TrickyUserInterface",
+	"Description": "A plugin with some User Interfaces boilerplate.",
 	"Category": "TrickyPrototyping",
 	"CreatedBy": "Artyom \"Tricky_Fat_Cat\" Volkov",
 	"CreatedByURL": "https://twitter.com/tricky_fat_cat",
@@ -16,12 +16,18 @@
 	"Installed": true,
 	"Modules": [
 		{
-			"Name": "TrickyAnimationComponents",
+			"Name": "TrickyUserInterface",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"WhitelistPlatforms": [
 				"Win64"
 			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "TrickyGameMode",
+			"Enabled": true
 		}
 	]
 }
