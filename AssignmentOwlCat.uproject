@@ -8,6 +8,38 @@
 			"Name": "BlockoutToolsPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
+		},
+		{
+			"Name": "TrickyAnimationComponents",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyDoors",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyButtons",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyInteractionSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyKeyringSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyPickups",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyUserInterface",
+			"Enabled": true
+		},
+		{
+			"Name": "TrickyGameMode",
+			"Enabled": true
 		}
 	]
 }
